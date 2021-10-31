@@ -1,0 +1,16 @@
+{
+  "name": "urfu-konkrusnoe-zadanie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "author": "Michael Korolev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "rand-token": "^1.0.1"
+  }
+}
